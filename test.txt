@@ -2,3 +2,4 @@ add some textx
 add some remote text
 add some local text
 add some remote text
+add some texts on master
